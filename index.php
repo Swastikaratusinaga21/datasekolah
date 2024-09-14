@@ -11,6 +11,9 @@
 
   <h1>Halaman Welcome</h1>
 
+  <a href="siswa.php">Siswa</a>
+  <a href="admin.php">Admin</a>
+
 </body>
 
 </html>
